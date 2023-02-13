@@ -36,7 +36,7 @@ Want to play locally? Try
 docker run -p 8080:8080  jeroenwillemsen/wrongsecrets:latest-no-vault
 ``` 
 
-Otherwie try one of the following online environments:
+Otherwise try one of the following online environments:
 
 - [Online demo (Heroku Free)](https://wrongsecrets-ctf.herokuapp.com/ "Online demo on a free Heroku Dyno")
 - [Online CTF demo env (Heroku Free)](https://wrongsecrets.herokuapp.com/ "Online demo on a free Heroku Dyno")
